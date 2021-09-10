@@ -1,14 +1,47 @@
 body {
   font: 20px Consolas, monospace;
   background-color: #e8e5dc;
-  color: #5c5133
+  color: #5c5133;
+  margin: 20px 50px;
+  line-height: 1.4
 }
 
 .defImg {
   height: 300px;
-  margin: 20px 0 20px 20px;
+  margin: 20px 0;
+  border-radius: 20px;
 }
 
 section {
-  margin-bottom: 20px
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 300%;
+  color: #000;
+}
+
+.main .large1, .large2 {
+  color: #000;
+  /* margin: auto auto -1rem auto; */
+  font-size: 200%;
+}
+
+.main .large2 {
+  /* margin: auto auto -1rem 60px; */
+  font-size: 150%;
+}
+
+.cascade {
+  margin-left: 30px;
+}
+
+.accented {
+  font-style: italic;
+  font-size: 1.2em;
+  color: #000;
+}
+
+.tracked {
+  letter-spacing: +2px;
 }
