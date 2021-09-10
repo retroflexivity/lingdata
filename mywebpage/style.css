@@ -1,0 +1,14 @@
+body {
+  font: 20px Consolas, monospace;
+  background-color: #e8e5dc;
+  color: #5c5133
+}
+
+.defImg {
+  height: 300px;
+  margin: 20px 0 20px 20px;
+}
+
+section {
+  margin-bottom: 20px
+}
