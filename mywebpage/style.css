@@ -1,5 +1,6 @@
 :root {
   --shift: 30px;
+  --bkgc: #e8e5dc;
 }
 
 html {
@@ -18,9 +19,16 @@ body::-webkit-scrollbar {
   display: none;
 }
 
+header {
+  position: fixed;
+  width: 100%;
+  margin-top: -30px;
+  background: var(--bkgc);
+}
+
 .defImg {
   height: 300px;
-  margin: 20px 0 0 0;
+  margin-top: 20px;
   border-radius: 20px;
 }
 
