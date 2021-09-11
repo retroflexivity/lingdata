@@ -2,12 +2,20 @@
   --shift: 30px;
 }
 
+html {
+  scrollbar-width: none;
+}
+
 body {
   font: 20px Consolas, monospace;
   background-color: #e8e5dc;
   color: #5c5133;
   margin: 20px 50px;
   line-height: 1.4;
+}
+
+body::-webkit-scrollbar {
+  display: none;
 }
 
 .defImg {
@@ -17,11 +25,11 @@ body {
 }
 
 section {
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 
 h1 {
-  font-size: 300%;
+  font-size: 3em;
   color: #000;
 }
 
@@ -31,36 +39,26 @@ h1 {
 
 .main .large1 {
   margin-top: -0.1em;
-  font-size: 200%;
+  font-size: 2em;
 }
 
 .main .large2 {
   /* margin: auto auto -1rem 60px; */
   margin-bottom: 0.1em;
-  font-size: 150%;
+  font-size: 1.5em;
 }
 
 .accented {
   font-style: italic;
   font-size: 1.2em;
   color: #000;
-  margin: 0.1em 0;
+  margin: 0.15em 0;
 }
 
 .tracked {
-  letter-spacing: +2px;
+  letter-spacing: +2.5px;
 }
-
-/* ------------------ */
 
 .cascade {
   margin-left: var(--shift);
-}
-
-.anticascade {
-  margin-left: -15px;
-}
-
-.ultracascade {
-  margin-left: 120px;
 }
