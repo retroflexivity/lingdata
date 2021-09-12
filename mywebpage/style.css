@@ -1,5 +1,5 @@
 :root {
-  --shift: 30px;
+  --shift: 1;
   --bkgc: #e8e5dc;
 }
 
@@ -8,10 +8,10 @@ html {
 }
 
 body {
-  font: 20px Consolas, monospace;
-  background-color: #e8e5dc;
+  font: 20px "Consolas", monospace;
+  background-color: var(--bkgc);
   color: #5c5133;
-  margin: 20px 50px;
+  margin: 0 50px;
   line-height: 1.4;
 }
 
@@ -22,7 +22,7 @@ body::-webkit-scrollbar {
 header {
   position: fixed;
   width: 100%;
-  margin-top: -60px;
+  margin-top: -50px;
   background: var(--bkgc);
 }
 
@@ -46,25 +46,29 @@ h1 {
 }
 
 
-.main .large1, .large2 {
+#name, #patronym, a, .heading  {
   color: #000;
 }
 
-.main .large1 {
+#name {
   margin-top: -0.1em;
   font-size: 2em;
 }
 
-.main .large2 {
+#patronym {
   /* margin: auto auto -1rem 60px; */
   margin-bottom: 0.1em;
   font-size: 1.5em;
 }
 
-.accented {
+.heading {
+  font-size: 1.5em;
+  font-variant: small-caps;
+}
+
+a {
   font-style: italic;
   font-size: 1.2em;
-  color: #000;
   margin: 0.15em 0;
 }
 
@@ -72,6 +76,10 @@ h1 {
   letter-spacing: +2.5px;
 }
 
+.comment {
+  font-size: 0.75em;
+}
+
 .cascade {
-  margin-left: var(--shift);
+  margin-left: calc(30px*var(--shift));
 }
