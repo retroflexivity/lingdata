@@ -46,7 +46,7 @@ h1 {
 }
 
 
-#name, #patronym, a, .heading  {
+#name, #patronym, a, .accented, .heading  {
   color: #000;
 }
 
@@ -66,7 +66,7 @@ h1 {
   font-variant: small-caps;
 }
 
-a {
+.accented {
   font-style: italic;
   font-size: 1.2em;
   margin: 0.15em 0;
@@ -83,3 +83,9 @@ a {
 .cascade {
   margin-left: calc(30px*var(--shift));
 }
+
+
+
+/* #testimg {
+  float: left;
+} */
