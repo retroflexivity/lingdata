@@ -30,6 +30,12 @@ header h1 {
   margin-right: 100px;
 }
 
+footer {
+  text-align: right;
+  color: #666666;
+  font-style: italic;
+}
+
 .defImg {
   height: 300px;
   margin-top: 20px;
@@ -83,9 +89,3 @@ h1 {
 .cascade {
   margin-left: calc(11.25px*var(--shift));
 }
-
-
-
-/* #testimg {
-  float: left;
-} */
