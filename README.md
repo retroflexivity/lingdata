@@ -1,3 +1,3 @@
 # Homework in Linguistic Data
 
-mywebpage is **work in progress**
+I didn't have a plan really
