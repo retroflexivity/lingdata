@@ -1,5 +1,5 @@
 :root {
-  --shift: 1;
+  --shift: 3;
   --bkgc: #e8e5dc;
 }
 
@@ -81,7 +81,7 @@ h1 {
 }
 
 .cascade {
-  margin-left: calc(30px*var(--shift));
+  margin-left: calc(11.25px*var(--shift));
 }
 
 
