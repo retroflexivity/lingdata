@@ -1,1 +1,4 @@
+# nushakov
+## A transcription of an intreview presenting phonetic features of Latvian Russian.
 
+The trimmed interview can be accessed at https://youtu.be/O2l7mbi0gMk.
