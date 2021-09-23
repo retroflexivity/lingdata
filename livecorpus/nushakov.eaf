@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-23T09:25:56+02:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///K:/Downloads/ushakov.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../../Downloads/ushakov.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:18c131ff-6c5c-4e40-ac3b-417bb926027c</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">118</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2693"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="3179"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="3325"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="10306"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="11094"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="14760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="15155"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="17457"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="18259"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="21306"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="21487"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="23096"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="23438"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="30372"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="30886"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="33853"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="33853"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="37547"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="37988"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="39512"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="40183"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="43971"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="44202"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="52264"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="52692"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="54122"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="54126"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="56746"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="56985"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="58712"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="58915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="59566"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="60364"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="68674"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="69051"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="69926"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="70353"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="79176"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="79391"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="83309"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="83702"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="89148"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="89726"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="94884"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="94884"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="99898"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="100341"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="101923"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="102492"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="109417"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="110045"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="118467"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="118954"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="125619"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="125978"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="127870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="127986"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="128694"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="129512"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="134624"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="135053"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="140886"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="141154"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="145131"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="146505"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="150529"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="150698"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="162093"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="162584"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="170664"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="171781"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="176419"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="177362"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="180741"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="180791"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="184010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="184506"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="185568"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="186007"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="189422"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="190103"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="195313"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="195416"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="197248"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="197436"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="201274"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="202217"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="207115"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="207579"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="210590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="211204"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="214733"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="215352"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="221805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="222765"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="228081"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="228081"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="231565"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="231565"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="237356"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="237417"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="240421"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="240936"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="244581"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="245066"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="252927"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="253243"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="260012"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="260443"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="269505"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="host" TIER_ID="text@host">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>и хожу в свой старый двор //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>эээм //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>там уже / половина людей не живёт те что жили со мной в детстве но я все равно там ностальгирую смотрю какие там новые качели появились у кого пластиковые окна... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>вы когда в Ригу приезжаете мимо Рижской думы так примерно ходите сейчас? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>мгм</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>а раньше мог зайти любой желающий?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>мгм / я никогда не был просто / не знаю //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>мгм</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>но вы не вышли //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>а разве / ну / все не проще / вчера это не была просто чья-то политическая акция?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>просто хотел сказать что правительство допустило / там / разные ошибки да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>но / разве наше правительство и вообще какое-либо в мире сталкивалось / когда-либо / с пандемией да и оно... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>у них нет методички как себя вести //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>ну не факт что / вы на их месте вели бы себя хо... правильно / идеально / или я //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>ну мы в... же видим что в Литве тоже в... выходят люди на улицу / во Франции / протесты какие-то / массовые //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>то есть это / не... мы не хуже всех я так понимаю справляемся //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@nu1976m" TIER_ID="text@nu1976m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>#смеется#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>а знаете не получалось на самом деле этим летом пройтись //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>мимо / именно Рижской думы //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ну как-то просто маршруты не совпали я проезжал несколько раз мимо посмотрел на // вот эту новую пристройку к Музею оккупации это выглядит хуже чем любое пластиковое окно // у любого из друзей //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>ну это просто страшно выглядит то что они построили рядом и учитывая весь тот функционал внутри //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>что тут только несколько кабинетов</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>а вот так пойти посмотреть заглянуть за занавеску в Рижскую думу пока не получалось //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>и / насколько мне рассказывали коллеги сейчас ээ // и невозможно во внутрь попасть там же поставили / пропускную систему вот эти / вертушки и / так далее //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>ээ / раньше / доступ в Рижскую думу был абсолютно открытый //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>не успели</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>ой там много было / лозунгов там и было и против ээ / тестирования и против масок и // говорилось о том что / вообще эпидемии не существует что это все бы... ээ выдумано //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>я с одной стороны естественно отношусь к этому очень настороженно потому что ну / объективно надо понимать что нас впереди ждет очень // серьезная очень больная новая волна //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>которая начнется вот сейчас на днях / сентябрь ммм // начало осени //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>и она будет тяжелой / и она к сожалению будет со смертностью и с ээ / плохим уровнем если мы говорим про / заболеваемость //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>то есть конечно вакцинироваться нужно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>я вот / ну если у меня я / трачу время рассказываю что я читал какие у меня там в... впечатления //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>потому что это действительно помогает //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>но с другой стороны ээ / когда с людьми говорят свысока и когда э / делалось в последний год все / чтобы люди не шли вакцинироваться</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>а потом им начинают угрожать / увольнениями и всем остальным абсолютно понятно почему / десять тыщ / сколько вчера вышло // по разным подсчетам человек ээ вышли на улицы //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>это очень плохо для страны это очень для Латвии / не потому что люди вышли // а потому что людей довели что они были вынуждены выйти //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>поэтому / ничего хорошего вчера не было //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>ээ я не выходил потому что / ээ во-первых это все-таки чувство ответственности / да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>то что делает правительство это неправильно это катастрофично это плохо за это ра... увольнять и... и разгонять //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>но это не повод при этом ээ э / н... не делать / э себе прививку //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>вчера // мы увидели то что / ээ / политики часть политиков из разных политических сил / очень активно используют вот именно этот момент когда люди / эээ /|</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>ну в принципе злы это наверное будет самое дипломатическое // определение / тому что э / происходило на улицах и не только на улицах / то что происходит в интернете на кухнях дома //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>ээ да используют / и к сожалению опять же используют то ч... / с чем нельзя играть //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>с очень многим можно к сожалению и... / так получается в политике играть //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>но / с / такими вещами как эпидемия ну это это //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>на мой взгляд это за гранью //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>эээ / люди выходят на улицу / выходят во всех странах это есть //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>  эээ / при этом в тех странах  где выходят у них / значительно лучше ээ / если мы говорим / данные по вакцинации //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>то есть ээ / вакцинировалось / восемьдесят / плюс / процентов / ээ предположим взрослого населения //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>ну да, какая-то часть п... / продолжает протестовать / это есть //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>но с другой стороны / нет наоборот у / лю... человечества накоплен огромный опыт / борьбы с эпидемиями //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>человечество умирало / вымирало по / четверть населения //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>ээ / в средние века и / в более позднее время / от чумы от других болезней //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>ээ / человечество достигло в / ну если мы говорим про развитие науки / таких высот что смогли побороть / смертельно опасные болезни / и никто не церемонился //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>когда / ээ / вакцинировали от полеомелита в Советском Союзе / вообще никому не приходило в голову сказать что нет / я ээ / против прививок //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>ээ в Америке в это же время происходила кампания / по вакцинации / и в тех районах / где люди были против просто приезжала полиция или национальная гвардияи и / вакцинировали силой //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="@nu1976m" TIER_ID="rgu@nu1976m"/>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="host" TIER_ID="rgu@host"/>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="words" PARENT_REF="text@nu1976m"
+        PARTICIPANT="@nu1976m" TIER_ID="words@nu1976m"/>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="phonetic_transcription"
+        PARENT_REF="text@nu1976m" PARTICIPANT="@nu1976m" TIER_ID="ipa@nu1976m"/>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="gesture_phases" PARENT_REF="rgu@nu1976m"
+        PARTICIPANT="@nu1976m" TIER_ID="rgph@nu1976m"/>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="gesture_phases" PARENT_REF="rgu@host"
+        PARTICIPANT="host" TIER_ID="rpgh@host"/>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="part of speech" PARENT_REF="words@nu1976m"
+        PARTICIPANT="@nu1976m" TIER_ID="pos@nu1976m"/>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="rgph@nu1976m"
+        PARTICIPANT="@nu1976m" TIER_ID="rgme@nu1976m"/>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="rpgh@host"
+        PARTICIPANT="host" TIER_ID="rgme@host"/>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="english" PARENT_REF="text@nu1976m"
+        PARTICIPANT="@nu1976m" TIER_ID="transl@nu1976m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>#laughing#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>You know I didn't really manage to walk there this summer...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>specifically past the Riga City Council.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Well it's just that the routes didn't match. I did drive by several times and saw... this new annex to the Occupation Museum, this looks worse than any plastic window... any friend has.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Well it just looks ugly, what they have built there nearby, considering all the functionality inside...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>That there are only a few rooms.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>I still haven't manage to come and watch behind the curtain though.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>And as colleagues told me, now it's actually impossible to get inside, they have put a pass system there, these turngates and so on.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Uhm, earlier the entrance to the Riga City Council was completely open.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Not in time.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>Oh there were many... slogans, against testing and against masks and... it was said that the epidemic doesn't exist at all, that it is all... made up.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>I, on one hand, treat it catiously of course, since well... objectively we need to realize that there is a... really hurtful new wave ahead...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>which is going to start in any day now... September... early Autumn...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>And it will be severe, and it will be with casualties and umm... poor level in the sense of morbidity.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>So you need to vaccinate of course.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>I personally, if I have time, I talk what I've read what... impressions I have.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>Because it does really help.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>But on the other hand when people are spoken down to and when for the last year everything has been done for people not to vaccinate..</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>and then they are threatened with dismissals and everything else, it's totally clear why ten thousand... how many were there yesterday? by different calculations, people took to the streets.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>It is very bad for the country, it is very bad for Latvia, not because people took to the streets but because people were driven into a state where they have to take.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>So it was nothing good yesterday.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>Ididn't come since, well, firstly it's none the less feeling of responsibility... Yes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>What the government is doing, it is wrong, it is catastrophic, it is bad, it is a reason to dismiss and... to dissipate.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>But it is not a reason to avoid inoculating.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>Yesterday... we saw that politicians... some politicians from different political forces very actively use this particular moment when people are... well...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>actually angry, this is probably the most diplomatic way to define what was happening on the streets, what is happening on the intrenet, in kitchens at homes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>Yes, they are using it. And, regrettably, again, they are using what... should not be played with.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE>Many things in politics can unfortunately be played with.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>But things like epidemic, it is...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>I believe it is over the top.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>People do take to the streets, it is present in every country.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>Though where they do they have a much better data if we talk about vaccination.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>Like, for example eighty plus percent of adult population has vaccinated.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>Yes, some part keep protesting, it is so.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a91">
+                <ANNOTATION_VALUE>But on the other hand... No, on the contrary, humanity has a huge experience of fighting epidemics.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>Humanity has died, died out, quarter of population at a time.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>In the Middle Ages as well as later, from plague and other diseases.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>Humanity has achived such heights when talking about science that we have managed to fight off deadly diseases, and no one fussed around.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>When vaccinating from polio in the Soviet Union no one even had a thought to say "no, I'm against inoculating".</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>In the USA at that time a vaccination campaign was happening, and in the districts where people opposed, the police or the National Guard just came and vaccinated by force.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="english" PARENT_REF="text@host"
+        PARTICIPANT="host" TIER_ID="transl@host">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>...And I enter my old neighborhood</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>Uhm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Half of people who lived with me when I was a child don't live there anymore, but I still get nostalgic seeing what new swings have appeared and who's got plastic windows...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>Do you walk past the Riga City Council like this now when you come to Riga?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>Mhm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>And before anyone could enter?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Mhm. I just have never been there. I don't know.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>Mhm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>But you didn't come.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>And isn't it all simper? Wasn't it just someone's political action yesterday?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>I just wanted to say that government made some mistakes, yeah...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>But has over government or any other in the world ever come acrosss a pandemic, and it...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>It doen't have a guide on how to act.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>There is no telling you wouldn't act correctly, perfectly... Or me.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>Well, we see that they take to the streets in Lithuania too. There are mass protests in France.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>So we are not the worst at managing it.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="english" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_0d110432-8c66-4f9a-8eef-dd0d9422832d">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a76d2c95-0ea8-4cd9-ae40-a13a903188d9">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a240a874-73af-4c0a-aa01-f4a630d2daeb">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_98f66a2c-eb64-49d2-82e6-f0000d0d5730">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_41237f9a-8c2b-485b-83b1-b1b5e4c09797">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2ef04f75-5502-4ba2-8b2f-c0069ac76234">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0367fb0d-7819-497c-811c-7956172d685e">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8bb8ad27-c961-4e44-984b-ccd6a8d891c9">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_cc0bdb27-55b7-4c20-bbf7-3cd5aa7c38c5">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1d192e69-e0c4-4e9d-a016-1d802aa2a2b7">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_193f0b0a-2305-4581-92ae-0b106f3d4f7e">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2d26b431-96c5-48ac-93cb-1859923d4e68">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_06392b44-2e00-4b06-a778-7018a053cdb6">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_58b8ba29-59fb-4359-a8df-bb19c100b800">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2564f25c-62d1-434d-9f11-3823907c3fd7">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_761a5174-1156-41a0-9c4c-1a97bba07ec2">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_606edeb5-d498-44a6-b657-0d93498de8b9">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
