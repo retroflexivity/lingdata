@@ -99,9 +99,6 @@
     </pref>
     <prefGroup key="TierColors">
         <pref key="text@a1985m">
-            <Object class="java.awt.Color">160,0,90</Object>
-        </pref>
-        <pref key="text@host">
             <Object class="java.awt.Color">160,90,90</Object>
         </pref>
         <pref key="rgu@nu1976m">
@@ -110,14 +107,13 @@
         <pref key="text@nu1976m">
             <Object class="java.awt.Color">90,90,0</Object>
         </pref>
-        <pref key="rgu@host">
-            <Object class="java.awt.Color">0,0,160</Object>
-        </pref>
         <pref key="rgu@a1985m">
-            <Object class="java.awt.Color">160,0,160</Object>
+            <Object class="java.awt.Color">0,0,160</Object>
         </pref>
     </prefGroup>
     <prefList key="MultiTierViewer.TierOrder">
+        <String>text@a1985m</String>
+        <String>transl@host</String>
         <String>text@nu1976m</String>
         <String>transl@nu1976m</String>
         <String>words@nu1976m</String>
@@ -126,11 +122,9 @@
         <String>rgu@nu1976m</String>
         <String>rgph@nu1976m</String>
         <String>rgme@nu1976m</String>
-        <String>text@host</String>
-        <String>rgu@host</String>
+        <String>rgu@a1985m</String>
         <String>rpgh@host</String>
         <String>rgme@host</String>
-        <String>transl@host</String>
     </prefList>
     <prefGroup key="TierHighlightColors"/>
     <pref key="LayoutManager.SplitPaneDividerLocation">
