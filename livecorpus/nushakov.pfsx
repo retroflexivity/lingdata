@@ -11,13 +11,19 @@
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
     </pref>
     <pref key="MultiTierViewer.ActiveTierName">
-        <String>transl@nu1976m</String>
+        <String>text@nu1976m</String>
+    </pref>
+    <pref key="TokenizeDialog.DestTier">
+        <String>words@nu1976m</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>269505</Long>
+        <Long>33374</Long>
+    </pref>
+    <pref key="LayoutManager.MediaAreaHeight">
+        <Int>106</Int>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>224.0</Float>
+        <Float>1579.9999</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -74,28 +80,31 @@
         <Object class="java.awt.Point">-8,-8</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>224.0</Float>
+        <Float>1579.9999</Float>
     </pref>
     <pref key="DetachedEditor.Bounds">
         <Object class="java.awt.Rectangle">810,390,300,300</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>260443</Long>
+        <Long>33250</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
     </prefGroup>
+    <pref key="TokenizeDialog.SourceTier">
+        <String>text@nu1976m</String>
+    </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="MediaControlRate">
-        <Float>1.0</Float>
+        <Float>0.1</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>6913</Long>
+        <Long>33041</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>10332</Long>
+        <Long>33532</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="text@a1985m">
@@ -113,12 +122,14 @@
     </prefGroup>
     <prefList key="MultiTierViewer.TierOrder">
         <String>text@a1985m</String>
+        <String>words@a1985m</String>
+        <String>pos@a1985m</String>
         <String>transl@a1985m</String>
         <String>text@nu1976m</String>
-        <String>transl@nu1976m</String>
         <String>words@nu1976m</String>
-        <String>ipa@nu1976m</String>
         <String>pos@nu1976m</String>
+        <String>ipa@nu1976m</String>
+        <String>transl@nu1976m</String>
         <String>rgu@nu1976m</String>
         <String>rgph@nu1976m</String>
         <String>rgme@nu1976m</String>
@@ -128,7 +139,7 @@
     </prefList>
     <prefGroup key="TierHighlightColors"/>
     <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>210</Int>
+        <Int>350</Int>
     </pref>
     <prefList key="CommentViewer.Columns.Hidden">
         <String>Sender</String>
