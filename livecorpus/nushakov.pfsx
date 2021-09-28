@@ -17,16 +17,19 @@
         <String>words@nu1976m</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>33374</Long>
+        <Long>0</Long>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
-        <Int>106</Int>
+        <Int>336</Int>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>1579.9999</Float>
+        <Float>2911.0015</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
+    </pref>
+    <pref key="SignalViewer.VerticalZoomLevel">
+        <Int>100</Int>
     </pref>
     <prefGroup key="CommentViewer.Columns">
         <pref key="Sender">
@@ -80,13 +83,13 @@
         <Object class="java.awt.Point">-8,-8</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>1579.9999</Float>
+        <Float>2911.0015</Float>
     </pref>
     <pref key="DetachedEditor.Bounds">
         <Object class="java.awt.Rectangle">810,390,300,300</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>33250</Long>
+        <Long>0</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -98,13 +101,13 @@
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="MediaControlRate">
-        <Float>0.1</Float>
+        <Float>0.3</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>33041</Long>
+        <Long>29781</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>33532</Long>
+        <Long>30385</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="text@a1985m">
