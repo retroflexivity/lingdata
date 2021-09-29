@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ColTimeList xmlns="http://mpi.nl/tools/coltime"
+    xmlns:NS1="http://www.w3.org/2001/XMLSchema-instance" NS1:schemaLocation="http://mpi.nl/tools/coltime http://www.mpi.nl/tools/coltime/schema.xsd">
+    <ColTime ColTimeMessageID="12383fcd-67fd-4482-8bf5-9556b13e5920" URL="">
+        <Metadata>
+            <Initials/>
+            <ThreadID/>
+            <Sender/>
+            <Recipient/>
+            <CreationDate>2021-09-29T18:57:38.857Z</CreationDate>
+            <ModificationDate>2021-09-29T19:46:12.431Z</ModificationDate>
+            <Category>unknown</Category>
+            <Status>unknown</Status>
+        </Metadata>
+        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:18c131ff-6c5c-4e40-ac3b-417bb926027c#t=0.550/0.721;tier=text@nu1976m</AnnotationFile>
+        <Message>Необходимо заметить, что английская лингвистика вообще не выделяет демонстративы как отдельные части речи (например, в СОСА that — детерминатив, а there — наречие). Таким образом, само наличие в предложенной системе категории demonstrative pronoun заставляет нас отклоняться от норм. Поступать так мне не кажется верным хотя бы потому, что это ставит проблему определения вопросительных и отрицательных местоимений вроде "чей" или "нигде" — степень "местоименности" у них такая же, что и у указательных. 
+
+При попытке использовать принятое в русском сообществе деление мы неизменно столкнемся с недостатком категорий, причем не только для местоимений, но и, например, для числительных (см. далее); по этой причине я считаю оптимальным решением по англоязычным стандартам определять местоимения (кроме местоимений-существительных, для которых существует собственный класс pronoun) по их синтаксической функции. При этом нужно упомянуть, что прилагательные местоимения в русском языке, в отличие от английского, где они взаимозаменяемы с артиклями, синтаксически не отличаются от обычных прилагательных, поэтому их следует считать именно таковыми, а не детерминативами.</Message>
+    </ColTime>
+    <ColTime ColTimeMessageID="8917a566-13bd-41ad-8d36-c59b70460fac" URL="">
+        <Metadata>
+            <Initials/>
+            <ThreadID/>
+            <Sender/>
+            <Recipient/>
+            <CreationDate>2021-09-29T18:56:31.343Z</CreationDate>
+            <ModificationDate>2021-09-29T19:47:58.405Z</ModificationDate>
+            <Category>unknown</Category>
+            <Status>unknown</Status>
+        </Metadata>
+        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:18c131ff-6c5c-4e40-ac3b-417bb926027c#t=25.453/25.849;tier=words@nu1976m</AnnotationFile>
+        <Message>Количественные числительные (за исключением таких, как "ноль", "тысяча" и т. д., включая местоименные вроде "несколько") — необычный с синтаксической точки зрения класс, заслуживающий быть обособленным. Тем не менее, в данной ситуации лучшее, что мы можем сделать — назвать их детерминативами как выполняющей похожую роль, но грамматически отличной от прилагательный частью речи.</Message>
+    </ColTime>
+</ColTimeList>
