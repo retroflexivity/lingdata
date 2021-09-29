@@ -31,4 +31,18 @@
         <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:18c131ff-6c5c-4e40-ac3b-417bb926027c#t=25.453/25.849;tier=words@nu1976m</AnnotationFile>
         <Message>Количественные числительные (за исключением таких, как "ноль", "тысяча" и т. д., включая местоименные вроде "несколько") — необычный с синтаксической точки зрения класс, заслуживающий быть обособленным. Тем не менее, в данной ситуации лучшее, что мы можем сделать — назвать их детерминативами как выполняющей похожую роль, но грамматически отличной от прилагательный частью речи.</Message>
     </ColTime>
+    <ColTime ColTimeMessageID="20ce1dc6-2038-4cc5-8b41-c394ff0e01ae" URL="">
+        <Metadata>
+            <Initials/>
+            <ThreadID/>
+            <Sender/>
+            <Recipient/>
+            <CreationDate>2021-09-29T21:52:35.136Z</CreationDate>
+            <ModificationDate>2021-09-29T21:52:35.136Z</ModificationDate>
+            <Category>unknown</Category>
+            <Status>unknown</Status>
+        </Metadata>
+        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:18c131ff-6c5c-4e40-ac3b-417bb926027c#t=74.960/75.183;tier=words@nu1976m</AnnotationFile>
+        <Message>*комментарий про предикаты*</Message>
+    </ColTime>
 </ColTimeList>
