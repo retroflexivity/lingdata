@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ColTimeList xmlns="http://mpi.nl/tools/coltime"
     xmlns:NS1="http://www.w3.org/2001/XMLSchema-instance" NS1:schemaLocation="http://mpi.nl/tools/coltime http://www.mpi.nl/tools/coltime/schema.xsd">
-    <ColTime ColTimeMessageID="12383fcd-67fd-4482-8bf5-9556b13e5920" URL="">
+    <ColTime ColTimeMessageID="18c704f0-4b6f-4402-817f-3dd9e4b1a4e0" URL="">
         <Metadata>
             <Initials/>
             <ThreadID/>
             <Sender/>
             <Recipient/>
-            <CreationDate>2021-09-29T18:57:38.857Z</CreationDate>
-            <ModificationDate>2021-09-29T19:46:12.431Z</ModificationDate>
+            <CreationDate>2021-09-30T16:24:19.656Z</CreationDate>
+            <ModificationDate>2021-09-30T16:24:19.656Z</ModificationDate>
             <Category>unknown</Category>
             <Status>unknown</Status>
         </Metadata>
-        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:18c131ff-6c5c-4e40-ac3b-417bb926027c#t=0.550/0.721;tier=text@nu1976m</AnnotationFile>
+        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:18c131ff-6c5c-4e40-ac3b-417bb926027c#t=0.550/0.721;tier=pos@a1985m</AnnotationFile>
         <Message>Необходимо заметить, что английская лингвистика вообще не выделяет демонстративы как отдельные части речи (например, в СОСА that — детерминатив, а there — наречие). Таким образом, само наличие в предложенной системе категории demonstrative pronoun заставляет нас отклоняться от норм. Поступать так мне не кажется верным хотя бы потому, что это ставит проблему определения вопросительных и отрицательных местоимений вроде "чей" или "нигде" — степень "местоименности" у них такая же, что и у указательных. 
 
 При попытке использовать принятое в русском сообществе деление мы неизменно столкнемся с недостатком категорий, причем не только для местоимений, но и, например, для числительных (см. далее); по этой причине я считаю оптимальным решением по англоязычным стандартам определять местоимения (кроме местоимений-существительных, для которых существует собственный класс pronoun) по их синтаксической функции. При этом нужно упомянуть, что прилагательные местоимения в русском языке, в отличие от английского, где они взаимозаменяемы с артиклями, синтаксически не отличаются от обычных прилагательных, поэтому их следует считать именно таковыми, а не детерминативами.</Message>
+    </ColTime>
+    <ColTime ColTimeMessageID="62e6b5b6-e793-4ec8-8c9e-b3830a6b1c1d" URL="">
+        <Metadata>
+            <Initials/>
+            <ThreadID/>
+            <Sender/>
+            <Recipient/>
+            <CreationDate>2021-09-30T16:25:27.606Z</CreationDate>
+            <ModificationDate>2021-09-30T16:25:27.606Z</ModificationDate>
+            <Category>unknown</Category>
+            <Status>unknown</Status>
+        </Metadata>
+        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:18c131ff-6c5c-4e40-ac3b-417bb926027c#t=25.453/25.849;tier=pos@nu1976m</AnnotationFile>
+        <Message>Количественные числительные (за исключением таких, как "ноль", "тысяча" и т. д., включая местоименные вроде "несколько") — необычный с синтаксической точки зрения класс, заслуживающий быть обособленным. Тем не менее, в данной ситуации лучшее, что мы можем сделать — назвать их детерминативами как выполняющей похожую роль, но грамматически отличной от прилагательный частью речи.</Message>
     </ColTime>
     <ColTime ColTimeMessageID="8917a566-13bd-41ad-8d36-c59b70460fac" URL="">
         <Metadata>
@@ -31,6 +45,20 @@
         <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:18c131ff-6c5c-4e40-ac3b-417bb926027c#t=25.453/25.849;tier=words@nu1976m</AnnotationFile>
         <Message>Количественные числительные (за исключением таких, как "ноль", "тысяча" и т. д., включая местоименные вроде "несколько") — необычный с синтаксической точки зрения класс, заслуживающий быть обособленным. Тем не менее, в данной ситуации лучшее, что мы можем сделать — назвать их детерминативами как выполняющей похожую роль, но грамматически отличной от прилагательный частью речи.</Message>
     </ColTime>
+    <ColTime ColTimeMessageID="154e54e5-c566-4684-ab25-4123aa9e076b" URL="">
+        <Metadata>
+            <Initials/>
+            <ThreadID/>
+            <Sender/>
+            <Recipient/>
+            <CreationDate>2021-09-30T16:30:48.154Z</CreationDate>
+            <ModificationDate>2021-09-30T16:30:48.154Z</ModificationDate>
+            <Category>unknown</Category>
+            <Status>unknown</Status>
+        </Metadata>
+        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:18c131ff-6c5c-4e40-ac3b-417bb926027c#t=71.309/71.664;tier=ipa@nu1976m</AnnotationFile>
+        <Message>Отдельного обозначения для вводных слов, используемого в НКРЯ, данный нам лексикон также лишен. Поэтому нам кажется оптимальным категоризировать вводные слова вроде "естественно" так, как если бы они являлись частью подвергшейся эллипсису синтаксически полноценной вставной конструкции — как предикативы. Таковые же, опять же, за неимением более точного определения, мы будем считать наречиями.</Message>
+    </ColTime>
     <ColTime ColTimeMessageID="20ce1dc6-2038-4cc5-8b41-c394ff0e01ae" URL="">
         <Metadata>
             <Initials/>
@@ -38,7 +66,7 @@
             <Sender/>
             <Recipient/>
             <CreationDate>2021-09-29T21:52:35.136Z</CreationDate>
-            <ModificationDate>2021-09-29T21:52:35.136Z</ModificationDate>
+            <ModificationDate>2021-09-30T14:25:11.130Z</ModificationDate>
             <Category>unknown</Category>
             <Status>unknown</Status>
         </Metadata>
