@@ -11,19 +11,19 @@
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
     </pref>
     <pref key="MultiTierViewer.ActiveTierName">
-        <String>text@nu1976m</String>
+        <String>ipa@nu1976m</String>
     </pref>
     <pref key="TokenizeDialog.DestTier">
         <String>words@nu1976m</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>721</Long>
+        <Long>231565</Long>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>335</Int>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>2311.0015</Float>
+        <Float>1091.001</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -83,7 +83,7 @@
         <Object class="java.awt.Point">-8,-8</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>2311.0015</Float>
+        <Float>1091.001</Float>
     </pref>
     <pref key="TimeLineViewer.ReducedTierHeight">
         <Boolean>false</Boolean>
@@ -92,7 +92,7 @@
         <Object class="java.awt.Rectangle">810,390,300,300</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>550</Long>
+        <Long>228081</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -107,10 +107,10 @@
         <Float>0.1</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>399</Long>
+        <Long>228067</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>761</Long>
+        <Long>228891</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="text@a1985m">
