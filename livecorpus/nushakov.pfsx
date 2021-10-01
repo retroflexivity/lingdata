@@ -107,7 +107,7 @@
         <Float>0.1</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>228067</Long>
+        <Long>94281</Long>
     </pref>
     <pref key="MediaTime">
         <Long>228891</Long>
@@ -145,7 +145,7 @@
     </prefList>
     <prefGroup key="TierHighlightColors"/>
     <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>2</Int>
+        <Int>70</Int>
     </pref>
     <prefList key="CommentViewer.Columns.Hidden">
         <String>Sender</String>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-10-01T10:51:06+02:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-10-01T11:04:49+02:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -1599,7 +1599,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts1588" TIME_VALUE="417685"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
-        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@a1985m" TIER_ID="text@a1985m">
+        LINGUISTIC_TYPE_REF="text" PARTICIPANT="@a1985m" TIER_ID="text@a1985m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts8">
@@ -1734,7 +1734,7 @@
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
-        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@nu1976m" TIER_ID="text@nu1976m">
+        LINGUISTIC_TYPE_REF="text" PARTICIPANT="@nu1976m" TIER_ID="text@nu1976m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
                 TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
@@ -15449,7 +15449,7 @@
         LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="rpgh@a1985m"
         PARTICIPANT="@a1985m" TIER_ID="rgme@a1985m"/>
     <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
-        LINGUISTIC_TYPE_REF="english" PARENT_REF="text@nu1976m"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@nu1976m"
         PARTICIPANT="@nu1976m" TIER_ID="transl@nu1976m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a5">
@@ -15788,7 +15788,7 @@
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
-        LINGUISTIC_TYPE_REF="english" PARENT_REF="text@a1985m"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@a1985m"
         PARTICIPANT="@a1985m" TIER_ID="transl@a1985m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a1">
@@ -19111,7 +19111,7 @@
         </ANNOTATION>
     </TIER>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
-        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+        LINGUISTIC_TYPE_ID="text" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
         GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
@@ -19128,7 +19128,7 @@
         CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
         LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
-        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="english" TIME_ALIGNABLE="false"/>
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
     <LOCALE LANGUAGE_CODE="ru" VARIANT="YAWERTY (Phonetic)"/>
     <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
     <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
