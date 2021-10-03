@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-10-01T11:45:52+02:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-10-03T18:42:03+02:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -2145,9 +2145,9 @@
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
-        LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="@nu1976m" TIER_ID="rgu@nu1976m"/>
+        LINGUISTIC_TYPE_REF="gesture" PARTICIPANT="@nu1976m" TIER_ID="gesture@nu1976m"/>
     <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
-        LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="@a1985m" TIER_ID="rgu@a1985m"/>
+        LINGUISTIC_TYPE_REF="gesture" PARTICIPANT="@a1985m" TIER_ID="gesture@a1985m"/>
     <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
         LINGUISTIC_TYPE_REF="words" PARENT_REF="text@nu1976m"
         PARTICIPANT="@nu1976m" TIER_ID="words@nu1976m">
@@ -9397,12 +9397,6 @@
     <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
         LINGUISTIC_TYPE_REF="phonetic_transcription"
         PARENT_REF="text@nu1976m" PARTICIPANT="@nu1976m" TIER_ID="ipa@nu1976m"/>
-    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
-        LINGUISTIC_TYPE_REF="gesture_phases" PARENT_REF="rgu@nu1976m"
-        PARTICIPANT="@nu1976m" TIER_ID="rgph@nu1976m"/>
-    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
-        LINGUISTIC_TYPE_REF="gesture_phases" PARENT_REF="rgu@a1985m"
-        PARTICIPANT="@a1985m" TIER_ID="rpgh@a1985m"/>
     <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
         LINGUISTIC_TYPE_REF="part of speech" PARENT_REF="words@nu1976m"
         PARTICIPANT="@nu1976m" TIER_ID="pos@nu1976m">
@@ -15442,12 +15436,6 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
-        LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="rgph@nu1976m"
-        PARTICIPANT="@nu1976m" TIER_ID="rgme@nu1976m"/>
-    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
-        LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="rpgh@a1985m"
-        PARTICIPANT="@a1985m" TIER_ID="rgme@a1985m"/>
     <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
         LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@nu1976m"
         PARTICIPANT="@nu1976m" TIER_ID="transl@nu1976m">
@@ -19110,6 +19098,26 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="intonation" PARENT_REF="text@nu1976m"
+        PARTICIPANT="@nu1976m" TIER_ID="intonation@nu1976m"/>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="intonation" PARENT_REF="text@a1985m"
+        PARTICIPANT="@a1985m" TIER_ID="intonation@a1985m"/>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="pause" PARTICIPANT="@nu1976m" TIER_ID="pause@nu1976m"/>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="pause" PARTICIPANT="@a1985m" TIER_ID="pause@a1985m"/>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="pause" PARTICIPANT="@nu1976m" TIER_ID="focus@nu1976m"/>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="pause" PARTICIPANT="@a1985m" TIER_ID="focus@a1985m"/>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="gesture@nu1976m" PARTICIPANT="@nu1976m" TIER_ID="gestMeaning@nu1976m"/>
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="gesture@a1985m" PARTICIPANT="@a1985m" TIER_ID="gestMeaning@a1985m"/>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
         LINGUISTIC_TYPE_ID="text" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
@@ -19118,7 +19126,7 @@
         GRAPHIC_REFERENCES="false"
         LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
-        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+        LINGUISTIC_TYPE_ID="gesture" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
         CONTROLLED_VOCABULARY_REF="Gesture phases"
         GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
@@ -19129,6 +19137,10 @@
         LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
         GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="intonation" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="pause" TIME_ALIGNABLE="true"/>
     <LOCALE LANGUAGE_CODE="ru" VARIANT="YAWERTY (Phonetic)"/>
     <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
     <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
