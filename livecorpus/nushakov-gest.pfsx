@@ -2,28 +2,28 @@
 <preferences version="1.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1920,1040</Object>
+        <Object class="java.awt.Dimension">1936,1056</Object>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
-        <Int>4</Int>
+        <Int>7</Int>
     </pref>
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
     </pref>
     <pref key="MultiTierViewer.ActiveTierName">
-        <String>text@a1985m</String>
+        <String>focus@nu1976m</String>
     </pref>
     <pref key="TokenizeDialog.DestTier">
         <String>words@nu1976m</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>1018</Long>
+        <Long>22352</Long>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
-        <Int>335</Int>
+        <Int>256</Int>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>1091.001</Float>
+        <Float>821.00104</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -79,11 +79,14 @@
     <pref key="ActiveRecognizerName">
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
+    <pref key="MediaControlVolume">
+        <Float>0.75</Float>
+    </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,0</Object>
+        <Object class="java.awt.Point">-8,-8</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>1091.001</Float>
+        <Float>821.00104</Float>
     </pref>
     <pref key="TimeLineViewer.ReducedTierHeight">
         <Boolean>true</Boolean>
@@ -92,7 +95,7 @@
         <Object class="java.awt.Rectangle">810,390,300,300</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>721</Long>
+        <Long>21951</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -104,13 +107,13 @@
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="MediaControlRate">
-        <Float>0.1</Float>
+        <Float>0.9</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>469</Long>
+        <Long>21601</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>483</Long>
+        <Long>22224</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="gesture@a1985m">
@@ -128,11 +131,11 @@
         <pref key="pause@a1985m">
             <Object class="java.awt.Color">90,160,0</Object>
         </pref>
-        <pref key="pause@nu1976m">
-            <Object class="java.awt.Color">0,90,90</Object>
-        </pref>
         <pref key="focus@a1985m">
             <Object class="java.awt.Color">90,0,160</Object>
+        </pref>
+        <pref key="pause@nu1976m">
+            <Object class="java.awt.Color">0,90,90</Object>
         </pref>
         <pref key="text@nu1976m">
             <Object class="java.awt.Color">90,90,0</Object>
@@ -157,7 +160,6 @@
         <String>focus@a1985m</String>
         <String>gesture@nu1976m</String>
         <String>gestMeaning@nu1976m</String>
-        <String>ipa@nu1976m</String>
     </prefList>
     <prefGroup key="TierHighlightColors"/>
     <pref key="LayoutManager.SplitPaneDividerLocation">
