@@ -5,25 +5,25 @@
         <Object class="java.awt.Dimension">1936,1056</Object>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
-        <Int>7</Int>
+        <Int>3</Int>
     </pref>
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
     </pref>
     <pref key="MultiTierViewer.ActiveTierName">
-        <String>focus@nu1976m</String>
+        <String>pause@a1985m</String>
     </pref>
     <pref key="TokenizeDialog.DestTier">
         <String>words@nu1976m</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>22352</Long>
+        <Long>116196</Long>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
-        <Int>256</Int>
+        <Int>239</Int>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>821.00104</Float>
+        <Float>741.0009</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -86,7 +86,7 @@
         <Object class="java.awt.Point">-8,-8</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>821.00104</Float>
+        <Float>741.0009</Float>
     </pref>
     <pref key="TimeLineViewer.ReducedTierHeight">
         <Boolean>true</Boolean>
@@ -95,7 +95,7 @@
         <Object class="java.awt.Rectangle">810,390,300,300</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>21951</Long>
+        <Long>115796</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -110,17 +110,17 @@
         <Float>0.9</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>21601</Long>
+        <Long>120977</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>22224</Long>
+        <Long>121443</Long>
     </pref>
     <prefGroup key="TierColors">
-        <pref key="gesture@a1985m">
-            <Object class="java.awt.Color">0,0,160</Object>
-        </pref>
         <pref key="focus@nu1976m">
             <Object class="java.awt.Color">160,90,160</Object>
+        </pref>
+        <pref key="gesture@a1985m">
+            <Object class="java.awt.Color">0,0,160</Object>
         </pref>
         <pref key="gesture@nu1976m">
             <Object class="java.awt.Color">0,160,160</Object>
@@ -131,11 +131,11 @@
         <pref key="pause@a1985m">
             <Object class="java.awt.Color">90,160,0</Object>
         </pref>
-        <pref key="focus@a1985m">
-            <Object class="java.awt.Color">90,0,160</Object>
-        </pref>
         <pref key="pause@nu1976m">
             <Object class="java.awt.Color">0,90,90</Object>
+        </pref>
+        <pref key="focus@a1985m">
+            <Object class="java.awt.Color">90,0,160</Object>
         </pref>
         <pref key="text@nu1976m">
             <Object class="java.awt.Color">90,90,0</Object>
@@ -147,8 +147,8 @@
         <String>pos@a1985m</String>
         <String>transl@a1985m</String>
         <String>intonation@a1985m</String>
-        <String>pause@nu1976m</String>
         <String>focus@nu1976m</String>
+        <String>pause@nu1976m</String>
         <String>gesture@a1985m</String>
         <String>gestMeaning@a1985m</String>
         <String>text@nu1976m</String>
@@ -156,8 +156,8 @@
         <String>pos@nu1976m</String>
         <String>transl@nu1976m</String>
         <String>intonation@nu1976m</String>
-        <String>pause@a1985m</String>
         <String>focus@a1985m</String>
+        <String>pause@a1985m</String>
         <String>gesture@nu1976m</String>
         <String>gestMeaning@nu1976m</String>
     </prefList>
