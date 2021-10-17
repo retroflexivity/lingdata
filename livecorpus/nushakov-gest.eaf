@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-10-08T00:01:33+02:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-10-08T11:07:33+02:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///K:/Downloads/ushakov.mp4"
-            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../../Downloads/ushakov.mp4"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///K:/Downloads/ushakov.mp4" MIME_TYPE="video/mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:18c131ff-6c5c-4e40-ac3b-417bb926027c</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">4596</PROPERTY>
     </HEADER>
@@ -10217,8 +10216,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3030" ANNOTATION_REF="a1769">
-                <ANNOTATION_VALUE/>
+            <REF_ANNOTATION ANNOTATION_ID="a3030" ANNOTATION_REF="a1769" CVE_REF="cveid_98f66a2c-eb64-49d2-82e6-f0000d0d5730">
+                <ANNOTATION_VALUE>adj</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
