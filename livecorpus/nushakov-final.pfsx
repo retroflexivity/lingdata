@@ -23,13 +23,13 @@
         <Boolean>false</Boolean>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>134622</Long>
+        <Long>231565</Long>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
-        <Int>239</Int>
+        <Int>62</Int>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>741.0009</Float>
+        <Float>1251.0011</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -92,7 +92,7 @@
         <Object class="java.awt.Point">0,0</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>991.00104</Float>
+        <Float>1251.0011</Float>
     </pref>
     <pref key="TimeLineViewer.ReducedTierHeight">
         <Boolean>true</Boolean>
@@ -101,11 +101,14 @@
         <Object class="java.awt.Rectangle">810,390,300,300</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>134359</Long>
+        <Long>231540</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+        <pref key="source_audio">
+            <String>/home/retroflexivity/lingdata/livecorpus/nushakov.wav</String>
         </pref>
     </prefGroup>
     <pref key="TokenizeDialog.SourceTier">
@@ -119,10 +122,10 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>134130</Long>
+        <Long>234571</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>134693</Long>
+        <Long>231540</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="focus@nu1976m">
@@ -172,7 +175,7 @@
     </prefList>
     <prefGroup key="TierHighlightColors"/>
     <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>1</Int>
+        <Int>148</Int>
     </pref>
     <prefList key="CommentViewer.Columns.Hidden">
         <String>Sender</String>
