@@ -8,13 +8,16 @@
         <Boolean>false</Boolean>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
-        <Int>7</Int>
+        <Int>6</Int>
     </pref>
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
     </pref>
+    <pref key="Search.TierSelectionMode">
+        <String>Tier</String>
+    </pref>
     <pref key="MultiTierViewer.ActiveTierName">
-        <String>focus@a1985m</String>
+        <String>pos@nu1976m</String>
     </pref>
     <pref key="TokenizeDialog.DestTier">
         <String>words@nu1976m</String>
@@ -26,10 +29,10 @@
         <Long>231565</Long>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
-        <Int>62</Int>
+        <Int>40</Int>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>1251.0011</Float>
+        <Float>465.0</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -88,11 +91,15 @@
     <pref key="MediaControlVolume">
         <Float>0.75</Float>
     </pref>
+    <prefList key="Search.SelectedTiers">
+        <String>pos@nu1976m</String>
+        <String>pos@a1985m</String>
+    </prefList>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,0</Object>
+        <Object class="java.awt.Point">0,16</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>1251.0011</Float>
+        <Float>465.0</Float>
     </pref>
     <pref key="TimeLineViewer.ReducedTierHeight">
         <Boolean>true</Boolean>
@@ -101,8 +108,26 @@
         <Object class="java.awt.Rectangle">810,390,300,300</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>231540</Long>
+        <Long>228200</Long>
     </pref>
+    <prefList key="Search.HiddenItems">
+        <String>text@a1985m</String>
+        <String>text@nu1976m</String>
+        <String>gesture@nu1976m</String>
+        <String>gesture@a1985m</String>
+        <String>words@nu1976m</String>
+        <String>transl@nu1976m</String>
+        <String>transl@a1985m</String>
+        <String>words@a1985m</String>
+        <String>intonation@nu1976m</String>
+        <String>intonation@a1985m</String>
+        <String>pause@nu1976m</String>
+        <String>pause@a1985m</String>
+        <String>focus@nu1976m</String>
+        <String>focus@a1985m</String>
+        <String>gestMeaning@nu1976m</String>
+        <String>gestMeaning@a1985m</String>
+    </prefList>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>
@@ -122,17 +147,17 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>234571</Long>
+        <Long>228166</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>231540</Long>
+        <Long>228200</Long>
     </pref>
     <prefGroup key="TierColors">
-        <pref key="focus@nu1976m">
-            <Object class="java.awt.Color">160,90,160</Object>
-        </pref>
         <pref key="gesture@a1985m">
             <Object class="java.awt.Color">0,0,160</Object>
+        </pref>
+        <pref key="focus@nu1976m">
+            <Object class="java.awt.Color">160,90,160</Object>
         </pref>
         <pref key="gesture@nu1976m">
             <Object class="java.awt.Color">0,160,160</Object>
@@ -175,7 +200,7 @@
     </prefList>
     <prefGroup key="TierHighlightColors"/>
     <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>148</Int>
+        <Int>2</Int>
     </pref>
     <prefList key="CommentViewer.Columns.Hidden">
         <String>Sender</String>
