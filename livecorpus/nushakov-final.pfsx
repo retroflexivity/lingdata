@@ -17,7 +17,7 @@
         <String>Tier</String>
     </pref>
     <pref key="MultiTierViewer.ActiveTierName">
-        <String>pos@nu1976m</String>
+        <String>focus@a1985m</String>
     </pref>
     <pref key="TokenizeDialog.DestTier">
         <String>words@nu1976m</String>
@@ -32,7 +32,7 @@
         <Int>40</Int>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>465.0</Float>
+        <Float>464.99997</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -99,7 +99,7 @@
         <Object class="java.awt.Point">0,16</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>465.0</Float>
+        <Float>464.99997</Float>
     </pref>
     <pref key="TimeLineViewer.ReducedTierHeight">
         <Boolean>true</Boolean>
@@ -129,11 +129,11 @@
         <String>gestMeaning@a1985m</String>
     </prefList>
     <prefGroup key="AAM-LR Phone level audio segmentation">
-        <pref key="base_url">
-            <String>http://lux17.mpi.nl/aamlr/</String>
-        </pref>
         <pref key="source_audio">
             <String>/home/retroflexivity/lingdata/livecorpus/nushakov.wav</String>
+        </pref>
+        <pref key="base_url">
+            <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
     </prefGroup>
     <pref key="TokenizeDialog.SourceTier">
@@ -157,7 +157,7 @@
             <Object class="java.awt.Color">0,0,160</Object>
         </pref>
         <pref key="focus@nu1976m">
-            <Object class="java.awt.Color">160,90,160</Object>
+            <Object class="java.awt.Color">90,0,160</Object>
         </pref>
         <pref key="gesture@nu1976m">
             <Object class="java.awt.Color">0,160,160</Object>
@@ -166,13 +166,13 @@
             <Object class="java.awt.Color">160,90,90</Object>
         </pref>
         <pref key="pause@a1985m">
+            <Object class="java.awt.Color">0,90,90</Object>
+        </pref>
+        <pref key="pause@nu1976m">
             <Object class="java.awt.Color">90,160,0</Object>
         </pref>
         <pref key="focus@a1985m">
-            <Object class="java.awt.Color">90,0,160</Object>
-        </pref>
-        <pref key="pause@nu1976m">
-            <Object class="java.awt.Color">0,90,90</Object>
+            <Object class="java.awt.Color">160,90,160</Object>
         </pref>
         <pref key="text@nu1976m">
             <Object class="java.awt.Color">90,90,0</Object>
@@ -184,8 +184,8 @@
         <String>pos@a1985m</String>
         <String>transl@a1985m</String>
         <String>intonation@a1985m</String>
-        <String>focus@nu1976m</String>
-        <String>pause@nu1976m</String>
+        <String>focus@a1985m</String>
+        <String>pause@a1985m</String>
         <String>gesture@a1985m</String>
         <String>gestMeaning@a1985m</String>
         <String>text@nu1976m</String>
@@ -193,8 +193,8 @@
         <String>pos@nu1976m</String>
         <String>transl@nu1976m</String>
         <String>intonation@nu1976m</String>
-        <String>focus@a1985m</String>
-        <String>pause@a1985m</String>
+        <String>focus@nu1976m</String>
+        <String>pause@nu1976m</String>
         <String>gesture@nu1976m</String>
         <String>gestMeaning@nu1976m</String>
     </prefList>
