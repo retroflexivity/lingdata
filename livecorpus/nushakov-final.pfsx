@@ -17,7 +17,7 @@
         <String>Tier</String>
     </pref>
     <pref key="MultiTierViewer.ActiveTierName">
-        <String>focus@nu1976m</String>
+        <String>intonation@a1985m</String>
     </pref>
     <pref key="TokenizeDialog.DestTier">
         <String>words@nu1976m</String>
@@ -32,7 +32,7 @@
         <Int>40</Int>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>464.99997</Float>
+        <Float>735.0001</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -99,13 +99,13 @@
         <Object class="java.awt.Point">0,16</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>464.99997</Float>
+        <Float>735.0001</Float>
     </pref>
     <pref key="TimeLineViewer.ReducedTierHeight">
         <Boolean>true</Boolean>
     </pref>
     <pref key="DetachedEditor.Bounds">
-        <Object class="java.awt.Rectangle">810,390,300,300</Object>
+        <Object class="java.awt.Rectangle">810,390,290,270</Object>
     </pref>
     <pref key="SelectionBeginTime">
         <Long>416986</Long>
@@ -129,11 +129,11 @@
         <String>gestMeaning@a1985m</String>
     </prefList>
     <prefGroup key="AAM-LR Phone level audio segmentation">
-        <pref key="base_url">
-            <String>http://lux17.mpi.nl/aamlr/</String>
-        </pref>
         <pref key="source_audio">
             <String>/home/retroflexivity/lingdata/livecorpus/nushakov.wav</String>
+        </pref>
+        <pref key="base_url">
+            <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
     </prefGroup>
     <pref key="TokenizeDialog.SourceTier">
