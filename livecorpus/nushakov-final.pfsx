@@ -17,7 +17,7 @@
         <String>Tier</String>
     </pref>
     <pref key="MultiTierViewer.ActiveTierName">
-        <String>focus@a1985m</String>
+        <String>focus@nu1976m</String>
     </pref>
     <pref key="TokenizeDialog.DestTier">
         <String>words@nu1976m</String>
@@ -26,7 +26,7 @@
         <Boolean>false</Boolean>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>231565</Long>
+        <Long>417311</Long>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>40</Int>
@@ -108,7 +108,7 @@
         <Object class="java.awt.Rectangle">810,390,300,300</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>228200</Long>
+        <Long>416986</Long>
     </pref>
     <prefList key="Search.HiddenItems">
         <String>text@a1985m</String>
@@ -129,11 +129,11 @@
         <String>gestMeaning@a1985m</String>
     </prefList>
     <prefGroup key="AAM-LR Phone level audio segmentation">
-        <pref key="source_audio">
-            <String>/home/retroflexivity/lingdata/livecorpus/nushakov.wav</String>
-        </pref>
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+        <pref key="source_audio">
+            <String>/home/retroflexivity/lingdata/livecorpus/nushakov.wav</String>
         </pref>
     </prefGroup>
     <pref key="TokenizeDialog.SourceTier">
@@ -147,15 +147,12 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>228166</Long>
+        <Long>415836</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>228200</Long>
+        <Long>416986</Long>
     </pref>
     <prefGroup key="TierColors">
-        <pref key="gesture@a1985m">
-            <Object class="java.awt.Color">0,0,160</Object>
-        </pref>
         <pref key="focus@nu1976m">
             <Object class="java.awt.Color">90,0,160</Object>
         </pref>
@@ -168,11 +165,11 @@
         <pref key="pause@a1985m">
             <Object class="java.awt.Color">0,90,90</Object>
         </pref>
-        <pref key="pause@nu1976m">
-            <Object class="java.awt.Color">90,160,0</Object>
-        </pref>
         <pref key="focus@a1985m">
             <Object class="java.awt.Color">160,90,160</Object>
+        </pref>
+        <pref key="pause@nu1976m">
+            <Object class="java.awt.Color">90,160,0</Object>
         </pref>
         <pref key="text@nu1976m">
             <Object class="java.awt.Color">90,90,0</Object>
@@ -186,8 +183,6 @@
         <String>intonation@a1985m</String>
         <String>focus@a1985m</String>
         <String>pause@a1985m</String>
-        <String>gesture@a1985m</String>
-        <String>gestMeaning@a1985m</String>
         <String>text@nu1976m</String>
         <String>words@nu1976m</String>
         <String>pos@nu1976m</String>
@@ -200,7 +195,7 @@
     </prefList>
     <prefGroup key="TierHighlightColors"/>
     <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>2</Int>
+        <Int>211</Int>
     </pref>
     <prefList key="CommentViewer.Columns.Hidden">
         <String>Sender</String>
