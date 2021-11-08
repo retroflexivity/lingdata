@@ -8,7 +8,7 @@
         <Boolean>false</Boolean>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
-        <Int>6</Int>
+        <Int>7</Int>
     </pref>
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
@@ -26,7 +26,7 @@
         <Boolean>false</Boolean>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>417451</Long>
+        <Long>404353</Long>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>248</Int>
@@ -95,11 +95,14 @@
         <String>pos@nu1976m</String>
         <String>pos@a1985m</String>
     </prefList>
+    <pref key="SignalViewer.TimeScaleConnected">
+        <Boolean>true</Boolean>
+    </pref>
     <pref key="FrameLocation">
         <Object class="java.awt.Point">0,16</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>681.9998</Float>
+        <Float>401.9999</Float>
     </pref>
     <pref key="TimeLineViewer.ReducedTierHeight">
         <Boolean>true</Boolean>
@@ -108,7 +111,7 @@
         <Object class="java.awt.Rectangle">810,390,290,270</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>416695</Long>
+        <Long>403527</Long>
     </pref>
     <prefList key="Search.HiddenItems">
         <String>text@a1985m</String>
@@ -141,16 +144,16 @@
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="TimeLineViewer.TimeScaleConnected">
-        <Boolean>false</Boolean>
+        <Boolean>true</Boolean>
     </pref>
     <pref key="MediaControlRate">
-        <Float>1.0</Float>
+        <Float>1.2</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>415261</Long>
+        <Long>417607</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>416950</Long>
+        <Long>417945</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="focus@nu1976m">
@@ -195,7 +198,7 @@
     </prefList>
     <prefGroup key="TierHighlightColors"/>
     <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>26</Int>
+        <Int>12</Int>
     </pref>
     <prefList key="CommentViewer.Columns.Hidden">
         <String>Sender</String>
