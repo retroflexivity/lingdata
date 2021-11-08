@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-11-08T17:18:05+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-11-08T23:50:33+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -18374,8 +18374,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a4210" ANNOTATION_REF="a2927">
-                <ANNOTATION_VALUE/>
+            <REF_ANNOTATION ANNOTATION_ID="a4210" ANNOTATION_REF="a2927" CVE_REF="cveid_a240a874-73af-4c0a-aa01-f4a630d2daeb">
+                <ANNOTATION_VALUE>int</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
