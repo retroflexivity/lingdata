@@ -1,6 +1,4 @@
 # nushakov
-### Транскрипция интервью
-
 Обрезанная версия видео интервью доступна на https://youtu.be/O2l7mbi0gMk и https://drive.google.com/file/d/1B9M1-pS7zXjt5mZk_RTk3wpUr-qYjFRd.
 
 ## Об особенностях частеречной разметки
