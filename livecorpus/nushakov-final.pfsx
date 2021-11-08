@@ -26,13 +26,13 @@
         <Boolean>false</Boolean>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>417311</Long>
+        <Long>417451</Long>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
-        <Int>251</Int>
+        <Int>248</Int>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>622.0</Float>
+        <Float>401.9999</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -99,7 +99,7 @@
         <Object class="java.awt.Point">0,16</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>622.0</Float>
+        <Float>681.9998</Float>
     </pref>
     <pref key="TimeLineViewer.ReducedTierHeight">
         <Boolean>true</Boolean>
@@ -108,7 +108,7 @@
         <Object class="java.awt.Rectangle">810,390,290,270</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>416986</Long>
+        <Long>416695</Long>
     </pref>
     <prefList key="Search.HiddenItems">
         <String>text@a1985m</String>
@@ -129,11 +129,11 @@
         <String>gestMeaning@a1985m</String>
     </prefList>
     <prefGroup key="AAM-LR Phone level audio segmentation">
-        <pref key="source_audio">
-            <String>/home/retroflexivity/lingdata/livecorpus/nushakov.wav</String>
-        </pref>
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+        <pref key="source_audio">
+            <String>/home/retroflexivity/lingdata/livecorpus/nushakov.wav</String>
         </pref>
     </prefGroup>
     <pref key="TokenizeDialog.SourceTier">
@@ -141,16 +141,16 @@
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="TimeLineViewer.TimeScaleConnected">
-        <Boolean>true</Boolean>
+        <Boolean>false</Boolean>
     </pref>
     <pref key="MediaControlRate">
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>415836</Long>
+        <Long>415261</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>416986</Long>
+        <Long>416950</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="focus@nu1976m">
@@ -195,7 +195,7 @@
     </prefList>
     <prefGroup key="TierHighlightColors"/>
     <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>211</Int>
+        <Int>26</Int>
     </pref>
     <prefList key="CommentViewer.Columns.Hidden">
         <String>Sender</String>
