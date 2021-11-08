@@ -17,7 +17,7 @@
         <String>Tier</String>
     </pref>
     <pref key="MultiTierViewer.ActiveTierName">
-        <String>intonation@a1985m</String>
+        <String>gesture@nu1976m</String>
     </pref>
     <pref key="TokenizeDialog.DestTier">
         <String>words@nu1976m</String>
@@ -29,10 +29,10 @@
         <Long>417311</Long>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
-        <Int>40</Int>
+        <Int>251</Int>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>735.0001</Float>
+        <Float>622.0</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -99,7 +99,7 @@
         <Object class="java.awt.Point">0,16</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>735.0001</Float>
+        <Float>622.0</Float>
     </pref>
     <pref key="TimeLineViewer.ReducedTierHeight">
         <Boolean>true</Boolean>
@@ -165,11 +165,11 @@
         <pref key="pause@a1985m">
             <Object class="java.awt.Color">0,90,90</Object>
         </pref>
-        <pref key="focus@a1985m">
-            <Object class="java.awt.Color">160,90,160</Object>
-        </pref>
         <pref key="pause@nu1976m">
             <Object class="java.awt.Color">90,160,0</Object>
+        </pref>
+        <pref key="focus@a1985m">
+            <Object class="java.awt.Color">160,90,160</Object>
         </pref>
         <pref key="text@nu1976m">
             <Object class="java.awt.Color">90,90,0</Object>
