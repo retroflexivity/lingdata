@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-11-08T23:50:33+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-11-10T11:08:29+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -2248,8 +2248,8 @@
         <TIME_SLOT TIME_SLOT_ID="ts2232" TIME_VALUE="417653"/>
         <TIME_SLOT TIME_SLOT_ID="ts2233" TIME_VALUE="417685"/>
     </TIME_ORDER>
-    <TIER ANNOTATOR="retroflexivity" LINGUISTIC_TYPE_REF="text"
-        PARTICIPANT="@a1985m" TIER_ID="text@a1985m">
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="text" PARTICIPANT="@a1985m" TIER_ID="text@a1985m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts8">
@@ -2383,8 +2383,8 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="retroflexivity" LINGUISTIC_TYPE_REF="text"
-        PARTICIPANT="@nu1976m" TIER_ID="text@nu1976m">
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="text" PARTICIPANT="@nu1976m" TIER_ID="text@nu1976m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
                 TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts70">
@@ -2794,8 +2794,8 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="retroflexivity" LINGUISTIC_TYPE_REF="gesture"
-        PARTICIPANT="@nu1976m" TIER_ID="gesture@nu1976m">
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="gesture" PARTICIPANT="@nu1976m" TIER_ID="gesture@nu1976m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5071"
                 TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts76">
@@ -3403,8 +3403,9 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="retroflexivity" LINGUISTIC_TYPE_REF="words"
-        PARENT_REF="text@nu1976m" PARTICIPANT="@nu1976m" TIER_ID="words@nu1976m">
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="words" PARENT_REF="text@nu1976m"
+        PARTICIPANT="@nu1976m" TIER_ID="words@nu1976m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1683"
                 TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts70">
@@ -15950,8 +15951,9 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="retroflexivity" LINGUISTIC_TYPE_REF="translation"
-        PARENT_REF="text@nu1976m" PARTICIPANT="@nu1976m" TIER_ID="transl@nu1976m">
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@nu1976m"
+        PARTICIPANT="@nu1976m" TIER_ID="transl@nu1976m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a5">
                 <ANNOTATION_VALUE>#laughing#</ANNOTATION_VALUE>
@@ -16293,8 +16295,9 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="retroflexivity" LINGUISTIC_TYPE_REF="translation"
-        PARENT_REF="text@a1985m" PARTICIPANT="@a1985m" TIER_ID="transl@a1985m">
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@a1985m"
+        PARTICIPANT="@a1985m" TIER_ID="transl@a1985m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a1">
                 <ANNOTATION_VALUE>...And I enter my old neighborhood.</ANNOTATION_VALUE>
@@ -16406,8 +16409,9 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="retroflexivity" LINGUISTIC_TYPE_REF="words"
-        PARENT_REF="text@a1985m" PARTICIPANT="@a1985m" TIER_ID="words@a1985m">
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="words" PARENT_REF="text@a1985m"
+        PARTICIPANT="@a1985m" TIER_ID="words@a1985m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a186"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
@@ -19504,8 +19508,9 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="retroflexivity" LINGUISTIC_TYPE_REF="intonation"
-        PARENT_REF="text@nu1976m" PARTICIPANT="@nu1976m" TIER_ID="intonation@nu1976m">
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="intonation" PARENT_REF="text@nu1976m"
+        PARTICIPANT="@nu1976m" TIER_ID="intonation@nu1976m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4912" ANNOTATION_REF="a5">
                 <ANNOTATION_VALUE>неясно</ANNOTATION_VALUE>
@@ -19847,8 +19852,9 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="retroflexivity" LINGUISTIC_TYPE_REF="intonation"
-        PARENT_REF="text@a1985m" PARTICIPANT="@a1985m" TIER_ID="intonation@a1985m">
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="intonation" PARENT_REF="text@a1985m"
+        PARTICIPANT="@a1985m" TIER_ID="intonation@a1985m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4443" ANNOTATION_REF="a1">
                 <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
@@ -20530,8 +20536,8 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="retroflexivity" LINGUISTIC_TYPE_REF="pause"
-        PARTICIPANT="@a1985m" TIER_ID="focus@a1985m">
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="pause" PARTICIPANT="@a1985m" TIER_ID="focus@a1985m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4678"
                 TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
@@ -20695,8 +20701,8 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="retroflexivity" LINGUISTIC_TYPE_REF="pause"
-        PARTICIPANT="@nu1976m" TIER_ID="focus@nu1976m">
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="pause" PARTICIPANT="@nu1976m" TIER_ID="focus@nu1976m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4467"
                 TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts78">
@@ -21532,7 +21538,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="retroflexivity"
+    <TIER ANNOTATOR="retroflexivity" DEFAULT_LOCALE="ru"
         LINGUISTIC_TYPE_REF="gesture_meaning"
         PARENT_REF="gesture@nu1976m" PARTICIPANT="@nu1976m" TIER_ID="gestMeaning@nu1976m">
         <ANNOTATION>
@@ -22059,6 +22065,8 @@
         GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="intonation" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
         LINGUISTIC_TYPE_ID="pause" TIME_ALIGNABLE="true"/>
+    <LOCALE LANGUAGE_CODE="ru" VARIANT="YAWERTY (Phonetic)"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
     <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
         LANG_ID="und" LANG_LABEL="undetermined (und)"/>
     <CONSTRAINT
